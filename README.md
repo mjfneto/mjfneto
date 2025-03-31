@@ -10,7 +10,12 @@
 
 ## My Stats, Technologies and Tooling
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjfneto&theme=transparent&show_icons=true)
+<div>
+  <a href="https://github.com/mjfneto">
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=mjfneto&show_icons=true&theme=transparent" alt="Estatísticas do GitHub"/>
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjfneto&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas"/>
+  </a>
+</div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
